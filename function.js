@@ -141,10 +141,6 @@ function handleMovement() {
   }
 }
 
-setInterval(() => {
-    CreatePlayers()
-  }, 5000);
-
 
 
   function ChangePlayerColor() {
